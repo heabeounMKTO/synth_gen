@@ -1,4 +1,4 @@
-# syth_gen
+# synth_gen
 
 ## explanation
 
